@@ -23,7 +23,7 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="joao@htrindade.com.br" alt="Gmail">
   <img src="https://img.shields.io/badge/-Email-FF0000?style=flat-square&labelColor=FF0000&logo=email&logoColor=white&link=joao@htrindade.com.br" /></a>
 
   <a href="#" alt="Linkedin">
