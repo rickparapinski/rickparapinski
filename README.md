@@ -23,9 +23,9 @@
 </p>
 
 <p align="left">
-  <a href="mailto:joao@htrindade.com.br" alt="Email">
+  <a href="mailto:joao@htrindade.com.br" target=”_blank”  alt="Email">
   <img src="https://img.shields.io/badge/-Email-FF0000?style=flat-square&labelColor=FF0000&logo=email&logoColor=white&link=joao@htrindade.com.br" /></a>
 
-  <a href="https://www.linkedin.com/in/joaohtrindade/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/joaohtrindade/" target=”_blank”  alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaohtrindade/" /></a>
 </p>
